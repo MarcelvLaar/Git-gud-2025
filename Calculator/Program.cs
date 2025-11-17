@@ -1,4 +1,4 @@
-﻿Console.WriteLine("=== Basic Calculator ===");
+﻿Console.WriteLine("=== SUPER COOL Calculator ===");
 Console.WriteLine();
 
 while (true)

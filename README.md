@@ -2,6 +2,4 @@
 Git-gud!!
 
 # Mooie git repository
-Hoi!!
-Dit is een git repository met allemaal mooie dingen erin.
-Veel plezier!
+Vergeet je user.name en user.email niet in te stellen!
